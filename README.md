@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KirilRafaylov
 - 👀 I’m interested in sports in general
-- 🌱 I’m currently learning Java Advanced and Java OOP courses in SoftUni
+- 🌱 I’m currently learning Java OOP and additional QA Automations courses in SoftUni
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me __kiril.raf@gmail.com__
 
